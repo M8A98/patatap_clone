@@ -13,3 +13,8 @@ X | Y Each X produces 10 Ys
 0   100
 ..  900
 100 0
+
+console.log(view.size.width);
+console.log(view.size.height);
+
+Point.random() is like Math.random() but in x and y as well.
